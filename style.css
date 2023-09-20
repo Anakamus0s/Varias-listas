@@ -1,0 +1,18 @@
+li.titulo {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+li.normal {
+    font-size: 16px;
+    font-weight: 100;
+}
+
+dl.normal {
+    font-size: 16px;
+    font-weight: 100;
+}
+
+h2.lista {
+    font-size: 26px;
+}
